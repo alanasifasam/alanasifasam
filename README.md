@@ -16,3 +16,4 @@
   <a href="https://www.linkedin.com/in/alana-mayra-arrais-040a36173" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+ 
